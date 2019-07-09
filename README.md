@@ -266,3 +266,7 @@ Finally, restart Apache
 ```
 sudo service apache2 restart
 ```
+## Additional Resources
+kcalata's [readme](https://github.com/kcalata/Linux-Server-Configuration) was super helpful for completing this project.
+Further resources on adding sudo users can be found [here] (https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
+And more info on configuring SSH keys [here] (https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
